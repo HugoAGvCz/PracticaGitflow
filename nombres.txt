@@ -1,5 +1,5 @@
-"nombres:"
-hugo
-lucia (lucas)
-américa 
+nombres:
+Hugo
+Lucia "Lucas"
+Arely
 whizo
