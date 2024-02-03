@@ -1,1 +1,5 @@
-"nombres:"
+nombres:
+Hugo
+Lucia "Lucas"
+Arely
+whizo
