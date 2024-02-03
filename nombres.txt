@@ -1,3 +1,4 @@
-"nombres:"
-hugo
-lucia (lucas)
+nombres:
+Hugo
+Lucia "Lucas"
+Arely
